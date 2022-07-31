@@ -1,0 +1,6 @@
+Using Astar
+generate path from line to parking space  using python3 a_star_turtlebot.py starting x,y,orientation goal x,y rpm for wheels,  rpm for wheels , boolean 
+eg .python3 a_star_turtlebot.py 2.052636,4.356630,0 1.060520,1.595278 30,25,5 0
+and add pre calculated path from parking 
+
+
